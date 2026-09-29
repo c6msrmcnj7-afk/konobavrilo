@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img"
+     aria-label="Ilustracija neretvanske delte: riječni rukavci, trstika i barka">
+  <title>Neretvanska delta</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12382d"/>
+      <stop offset="0.55" stop-color="#1b4a3b"/>
+      <stop offset="1" stop-color="#0d2a22"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f6f57" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#0d2a22"/>
+    </linearGradient>
+    <linearGradient id="haze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c08a3e" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#e0b269" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e0b269" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#e0b269" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="reeds" width="26" height="90" patternUnits="userSpaceOnUse">
+      <g stroke="#1b4a3b" stroke-width="3" stroke-linecap="round" fill="none">
+        <path d="M4 90 C3 60 6 40 4 18"/>
+        <path d="M13 90 C15 62 11 44 14 26"/>
+        <path d="M22 90 C21 66 24 50 21 34"/>
+      </g>
+      <g fill="#c08a3e" opacity=".75">
+        <ellipse cx="4" cy="14" rx="3.4" ry="8"/>
+        <ellipse cx="14" cy="22" rx="3" ry="7"/>
+        <ellipse cx="21" cy="30" rx="2.8" ry="6.5"/>
+      </g>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="800" height="600" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- nebeski sloj -->
+    <rect width="800" height="600" fill="url(#sky)"/>
+    <circle cx="597" cy="176" r="150" fill="url(#sun)"/>
+    <path d="M0 176 H800" stroke="url(#haze)" stroke-width="2"/>
+
+    <!-- obrisi obronaka u izmaglici -->
+    <path d="M0 300 L120 214 L206 268 L318 196 L432 280 L540 226 L648 292 L800 236 V340 H0 Z"
+          fill="#0d2a22" opacity=".55"/>
+    <path d="M0 330 L96 282 L214 330 L330 268 L470 336 L596 288 L720 340 L800 306 V380 H0 Z"
+          fill="#0d2a22" opacity=".75"/>
+
+    <!-- delta: mreža rukavaca -->
+    <path d="M0 352 H800 V600 H0 Z" fill="url(#water)"/>
+    <g fill="none" stroke="#2f6f57" stroke-width="13" stroke-linecap="round" opacity=".85">
+      <path d="M386 352 C372 404 316 424 262 456 C214 484 176 522 150 600"/>
+      <path d="M400 352 C412 410 466 434 522 466 C568 492 602 532 620 600"/>
+      <path d="M393 352 C392 420 398 494 402 600"/>
+      <path d="M400 352 C356 380 300 386 236 384 C168 382 96 372 0 386"/>
+      <path d="M404 352 C452 378 512 388 580 386 C658 384 728 372 800 384"/>
+    </g>
+    <g fill="none" stroke="#e0b269" stroke-width="2" opacity=".35">
+      <path d="M386 352 C372 404 316 424 262 456 C214 484 176 522 150 600"/>
+      <path d="M400 352 C412 410 466 434 522 466 C568 492 602 532 620 600"/>
+      <path d="M393 352 C392 420 398 494 402 600"/>
+    </g>
+
+    <!-- otoci i sprudovi -->
+    <g fill="#0d2a22" opacity=".9">
+      <ellipse cx="196" cy="446" rx="70" ry="20" transform="rotate(-14 196 446)"/>
+      <ellipse cx="628" cy="470" rx="82" ry="22" transform="rotate(12 628 470)"/>
+      <ellipse cx="452" cy="546" rx="96" ry="24" transform="rotate(-5 452 546)"/>
+      <ellipse cx="262" cy="574" rx="58" ry="16" transform="rotate(-18 262 574)"/>
+    </g>
+
+    <!-- trstika -->
+    <rect x="0" y="330" width="188" height="120" fill="url(#reeds)" opacity=".9"/>
+    <rect x="646" y="336" width="154" height="120" fill="url(#reeds)" opacity=".9"/>
+    <rect x="188" y="560" width="180" height="40" fill="url(#reeds)" opacity=".5"/>
+
+    <!-- barka -->
+    <g transform="translate(560 392) rotate(8)">
+      <path d="M-64 0 C-64 18 -34 30 0 30 C34 30 64 18 64 0 Z" fill="#c08a3e"/>
+      <path d="M-64 0 H64" stroke="#0d2a22" stroke-width="3" opacity=".5"/>
+      <path d="M-40 -4 V-40" stroke="#e0b269" stroke-width="4" stroke-linecap="round"/>
+      <path d="M-38 -38 C-8 -30 18 -30 40 -36 L36 -10 C14 -4 -12 -4 -38 -10 Z"
+            fill="#f3ede1" opacity=".9"/>
+      <path d="M40 -34 C52 -28 54 -16 46 -8" stroke="#e0b269" stroke-width="3" fill="none"/>
+    </g>
+
+    <!-- jegulja u vodi -->
+    <g fill="none" stroke="#c08a3e" stroke-width="6" stroke-linecap="round" opacity=".8">
+      <path d="M96 520 C140 496 178 546 224 520 C270 494 306 544 352 520"/>
+      <path d="M470 500 C512 480 546 522 588 500"/>
+    </g>
+
+    <!-- valovi -->
+    <g fill="none" stroke="#f3ede1" stroke-width="2" opacity=".2">
+      <path d="M60 430 h56 M136 430 h30"/>
+      <path d="M300 486 h50 M368 486 h24"/>
+      <path d="M520 560 h64 M602 560 h34"/>
+    </g>
+  </g>
+</svg>
