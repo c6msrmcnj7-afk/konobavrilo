@@ -696,11 +696,11 @@
         de: 'Kontakt',
         it: 'Contatti'
       },
-      'b6f834db27': {
-        hr: '© <span id="year">2026</span> Konoba Vrilo. Sadržaj i fotografije sastavljeni su iz javnih izvora (Gault&amp;Millau, smokvina.hr, Google recenzije) — prije objave zamijenite ih vlastitim fotografijama i aktualnim cijenama.',
-        en: '© <span id="year">2026</span> Konoba Vrilo. Content and photographs were compiled from public sources (Gault&amp;Millau, smokvina.hr, Google reviews) — replace them with your own photographs and current prices before publishing.',
-        de: '© <span id="year">2026</span> Konoba Vrilo. Inhalte und Fotos wurden aus öffentlichen Quellen zusammengestellt (Gault&amp;Millau, smokvina.hr, Google-Bewertungen) — vor der Veröffentlichung durch eigene Fotos und aktuelle Preise ersetzen.',
-        it: '© <span id="year">2026</span> Konoba Vrilo. Contenuti e fotografie sono stati compilati da fonti pubbliche (Gault&amp;Millau, smokvina.hr, recensioni Google) — prima della pubblicazione sostituirli con foto proprie e prezzi aggiornati.'
+      'c26487dc73': {
+        hr: '© <span id="year">2026</span> Konoba Vrilo. Sva prava pridržana.',
+        en: '© <span id="year">2026</span> Konoba Vrilo. All rights reserved.',
+        de: '© <span id="year">2026</span> Konoba Vrilo. Alle Rechte vorbehalten.',
+        it: '© <span id="year">2026</span> Konoba Vrilo. Tutti i diritti riservati.'
       },
       'bc8471fced': {
         hr: 'Konoba Vrilo — žaba i jegulja u barki',
@@ -1458,11 +1458,11 @@
         de: 'Über die Konoba · aus der Presse',
         it: 'La konoba · dalla stampa'
       },
-      'c4553d0fd2': {
-        hr: 'BBC Travel je 2013. godine posvetio cijeli članak neretvanskoj tradiciji jedenja žaba — i pisao ga upravo iz naše kuhinje u Prudu. Trinaest godina poslije, Gault&amp;Millau konobi daje <strong>13/20</strong>. Dvije reference i jedna adresa koju treba provjeriti.',
-        en: 'In 2013 BBC Travel devoted a whole article to the Neretva tradition of eating frogs — and wrote it from our kitchen in Prud. Thirteen years later, Gault&amp;Millau gives the konoba <strong>13/20</strong>. Two references and one address that needs checking.',
-        de: '2013 widmete BBC Travel der Neretva-Tradition des Froschessens einen ganzen Artikel — geschrieben aus unserer Küche in Prud. Dreizehn Jahre später gibt Gault&amp;Millau der Konoba <strong>13/20</strong>. Zwei Referenzen und eine Adresse, die zu prüfen ist.',
-        it: 'Nel 2013 BBC Travel ha dedicato un intero articolo alla tradizione della Neretva di mangiare le rane — scritto dalla nostra cucina a Prud. Tredici anni dopo, Gault&amp;Millau assegna alla konoba <strong>13/20</strong>. Due referenze e un indirizzo da verificare.'
+      '48e62f6d2c': {
+        hr: 'BBC Travel je 2013. godine posvetio cijeli članak neretvanskoj tradiciji jedenja žaba — i pisao ga upravo iz naše kuhinje u Prudu. Trinaest godina poslije, Gault&amp;Millau konobi daje <strong>13/20</strong>.',
+        en: 'In 2013 BBC Travel devoted a whole article to the Neretva tradition of eating frogs — and wrote it from our kitchen in Prud. Thirteen years later, Gault&amp;Millau gives the konoba <strong>13/20</strong>.',
+        de: '2013 widmete BBC Travel der Neretva-Tradition des Froschessens einen ganzen Artikel — geschrieben aus unserer Küche in Prud. Dreizehn Jahre später gibt Gault&amp;Millau der Konoba <strong>13/20</strong>.',
+        it: 'Nel 2013 BBC Travel ha dedicato un intero articolo alla tradizione della Neretva di mangiare le rane — scritto dalla nostra cucina a Prud. Tredici anni dopo, Gault&amp;Millau assegna alla konoba <strong>13/20</strong>.'
       },
       '768ce7d692': {
         hr: 'Izvori',
@@ -1650,24 +1650,6 @@
         de: 'Ganze Rezension: <a href="https://hr.gaultmillau.com/hr/restaurants/konoba-vrilo" target="_blank" rel="noopener">Konoba Vrilo</a> — Gault&amp;Millau Kroatien',
         it: 'Recensione completa: <a href="https://hr.gaultmillau.com/hr/restaurants/konoba-vrilo" target="_blank" rel="noopener">Konoba Vrilo</a> — Gault&amp;Millau Croazia'
       },
-      'f9c5d5dc7e': {
-        hr: 'Jedna stvar koju treba provjeriti: adresa',
-        en: 'One thing to check: the address',
-        de: 'Eine Sache, die zu prüfen ist: die Adresse',
-        it: 'Una cosa da verificare: l\'indirizzo'
-      },
-      '8b3602d8ae': {
-        hr: 'Ovdje ćemo biti posve otvoreni, jer je to pitanje koje gostima stvara zabunu. Naši podaci i Google prikazuju adresu <strong>Prud 193</strong>, dok Gault&amp;Millau navodi <strong>Prud 192</strong>. Radi se o istoj konobi — ali kućni broj nije usklađen.',
-        en: 'Here we will be completely open, because this is a question that confuses guests. Our data and Google show the address <strong>Prud 193</strong>, while Gault&amp;Millau lists <strong>Prud 192</strong>. It is the same konoba — but the house number is not aligned.',
-        de: 'Hier sind wir ganz offen, denn diese Frage verwirrt Gäste. Unsere Angaben und Google zeigen die Adresse <strong>Prud 193</strong>, während Gault&amp;Millau <strong>Prud 192</strong> nennt. Es ist dieselbe Konoba — aber die Hausnummer ist nicht abgestimmt.',
-        it: 'Qui saremo del tutto trasparenti, perché è una questione che confonde gli ospiti. I nostri dati e Google indicano l\'indirizzo <strong>Prud 193</strong>, mentre Gault&amp;Millau riporta <strong>Prud 192</strong>. È la stessa konoba — ma il numero civico non è allineato.'
-      },
-      '756d4eaeb1': {
-        hr: 'Do prve provjere kod nadležnih, za navigaciju je najpouzdanije koristiti <strong>koordinate</strong> (43.095118, 17.618279) ili Google kartu, a ne kućni broj. Ako prolazite cestom prema granici, konoba se nalazi uz samo vrilo rijeke Norin i teško ju je promašiti.',
-        en: 'Until the first check with the authorities, the most reliable way to navigate is to use the <strong>coordinates</strong> (43.095118, 17.618279) or Google Maps, rather than the house number. If you are driving towards the border, the konoba stands beside the very spring of the river Norin and is hard to miss.',
-        de: 'Bis zur ersten Prüfung bei den Behörden ist für die Navigation am zuverlässigsten die <strong>Koordinaten</strong> (43.095118, 17.618279) oder Google Maps zu nutzen, nicht die Hausnummer. Wenn Sie Richtung Grenze fahren, liegt die Konoba direkt an der Quelle des Flusses Norin und ist kaum zu verfehlen.',
-        it: 'Fino al primo controllo presso le autorità, per la navigazione è più affidabile usare le <strong>coordinate</strong> (43.095118, 17.618279) o Google Maps, non il numero civico. Se guidate verso il confine, la konoba si trova proprio accanto alla sorgente del fiume Norin ed è difficile da mancare.'
-      },
       '6cd7eff613': {
         hr: 'Dođite vidjeti zašto su pisali o nama',
         en: 'Come and see why they wrote about us',
@@ -1764,12 +1746,6 @@
         de: 'Was der Führer hervorhebt',
         it: 'Cosa evidenzia la guida'
       },
-      '4ce49275e3': {
-        hr: 'Adresa za provjeru',
-        en: 'Address to check',
-        de: 'Indirizzo da verificare',
-        it: 'Indirizzo da verificare'
-      },
       '0d713c65bd': {
         hr: 'Neretvanski brudet — soul of the Neretva valley →',
         en: 'Neretva brudet — soul of the Neretva valley →',
@@ -1806,11 +1782,11 @@
         de: 'Konoba Vrilo in den Weltmedien — BBC Travel und Gault&amp;Millau',
         it: 'Konoba Vrilo sui media internazionali — BBC Travel e Gault&amp;Millau'
       },
-      '149e42244e': {
-        hr: 'BBC Travel o neretvanskoj tradiciji žaba i konobi Vrilo; Gault&Millau 13/20. Dvije reference i jedna adresa koju treba provjeriti.',
-        en: 'BBC Travel on the Neretva frog tradition and Konoba Vrilo; Gault&amp;Millau 13/20. Two references and one address to check.',
-        de: 'BBC Travel über die Neretva-Froschtradition und die Konoba Vrilo; Gault&amp;Millau 13/20. Zwei Referenzen und eine zu prüfende Adresse.',
-        it: 'BBC Travel sulla tradizione delle rane della Neretva e la Konoba Vrilo; Gault&amp;Millau 13/20. Due referenze e un indirizzo da verificare.'
+      'a3ff7226ed': {
+        hr: 'BBC Travel o neretvanskoj tradiciji žaba i konobi Vrilo; Gault&Millau 13/20.',
+        en: 'BBC Travel on the Neretva frog tradition and Konoba Vrilo; Gault&amp;Millau 13/20.',
+        de: 'BBC Travel über die Neretva-Froschtradition und die Konoba Vrilo; Gault&amp;Millau 13/20.',
+        it: 'BBC Travel sulla tradizione delle rane della Neretva e la Konoba Vrilo; Gault&amp;Millau 13/20.'
       },
       'de515e00b8': {
         hr: 'Konoba Vrilo · Prud, Metković — neretvanski specijaliteti',
