@@ -165,9 +165,27 @@
     return box;
   };
 
-  var mountSwitchers = function () {
+  /* Na mobitelu je gornja traka pretijesna za četiri tipke, pa prekidač
+     selimo u klizni meni. Na širokom ekranu ostaje u traci. */
+  var narrowQuery = window.matchMedia ? window.matchMedia('(max-width: 780px)') : null;
+  var headerSwitcher = null;
+
+  var placeHeaderSwitcher = function () {
     var header = document.querySelector('.header-inner');
-    if (header && !header.querySelector('.lang-switch')) header.appendChild(buildSwitcher());
+    var nav = document.querySelector('.nav');
+    if (!header || !headerSwitcher) return;
+    var target = (narrowQuery && narrowQuery.matches && nav) ? nav : header;
+    if (headerSwitcher.parentNode !== target) target.appendChild(headerSwitcher);
+  };
+
+  var mountSwitchers = function () {
+    headerSwitcher = buildSwitcher();
+    placeHeaderSwitcher();
+    if (narrowQuery) {
+      var relocate = function () { placeHeaderSwitcher(); };
+      if (narrowQuery.addEventListener) narrowQuery.addEventListener('change', relocate);
+      else if (narrowQuery.addListener) narrowQuery.addListener(relocate);
+    }
     Array.prototype.forEach.call(document.querySelectorAll('.footer-nav'), function (nav) {
       if (nav.parentNode.querySelector('.lang-switch')) return;
       nav.parentNode.insertBefore(buildSwitcher(), nav.nextSibling);
