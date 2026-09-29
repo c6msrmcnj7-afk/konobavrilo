@@ -600,23 +600,11 @@
         de: '<strong>Telefon</strong> <a href="tel:+38520687139">+385 20 687 139</a>',
         it: '<strong>Telefono</strong> <a href="tel:+38520687139">+385 20 687 139</a>'
       },
-      'f9f6e532e8': {
-        hr: '<strong>WhatsApp (grupe i eventi)</strong> <a href="https://wa.me/38598667806">+385 98 667 806</a>',
-        en: '<strong>WhatsApp (groups and events)</strong> <a href="https://wa.me/38598667806">+385 98 667 806</a>',
-        de: '<strong>WhatsApp (Gruppen und Events)</strong> <a href="https://wa.me/38598667806">+385 98 667 806</a>',
-        it: '<strong>WhatsApp (gruppi ed eventi)</strong> <a href="https://wa.me/38598667806">+385 98 667 806</a>'
-      },
-      '9293807faa': {
-        hr: 'E-mail za rezervacije',
-        en: 'E-mail for bookings',
-        de: 'E-Mail für Reservierungen',
-        it: 'E-mail per le prenotazioni'
-      },
-      'd61886ee45': {
-        hr: 'booking@smokvina.hr',
-        en: 'booking@smokvina.hr',
-        de: 'booking@smokvina.hr',
-        it: 'booking@smokvina.hr'
+      '1fcb5d888c': {
+        hr: '<strong>Mobitel</strong> <a href="tel:+385955148011">+385 95 514 8011</a>',
+        en: '<strong>Mobile</strong> <a href="tel:+385955148011">+385 95 514 8011</a>',
+        de: '<strong>Mobil</strong> <a href="tel:+385955148011">+385 95 514 8011</a>',
+        it: '<strong>Cellulare</strong> <a href="tel:+385955148011">+385 95 514 8011</a>'
       },
       '6f4e789c64': {
         hr: 'Adresa',
@@ -689,12 +677,6 @@
         en: 'Call the konoba',
         de: 'Konoba anrufen',
         it: 'Chiama la konoba'
-      },
-      '939046d2ad': {
-        hr: 'Rezerviraj online',
-        en: 'Book online',
-        de: 'Online reservieren',
-        it: 'Prenota online'
       },
       'b8c5a3dea5': {
         hr: 'Otvori navigaciju →',
@@ -1745,18 +1727,6 @@
         en: 'Rating 13/20, category “authentic cuisine”, chef Stojka Taslak',
         de: 'Bewertung 13/20, Kategorie „authentische Küche“, Chefköchin Stojka Taslak',
         it: 'Valutazione 13/20, categoria “cucina autentica”, chef Stojka Taslak'
-      },
-      'd37cfda076': {
-        hr: 'Smokvina / BookYour',
-        en: 'Smokvina / BookYour',
-        de: 'Smokvina / BookYour',
-        it: 'Smokvina / BookYour'
-      },
-      '143c0d85a8': {
-        hr: 'Adresa, telefon, radno vrijeme i rezervacije',
-        en: 'Address, phone, opening hours and bookings',
-        de: 'Adresse, Telefon, Öffnungszeiten und Reservierungen',
-        it: 'Indirizzo, telefono, orari e prenotazioni'
       },
       '60783495f1': {
         hr: 'Ako naiđete na još neki tekst o konobi — domaći ili strani — javite nam. Rado ćemo ga dodati ovdje.',
