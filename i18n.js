@@ -252,30 +252,6 @@
         de: 'Was man im Vrilo isst',
         it: 'Cosa si mangia al Vrilo'
       },
-      'e757829b5f': {
-        hr: 'Ponuda se mijenja dnevno, prema ulovu i sezoni. Za jela ispod peke i veće grupe preporučujemo rezervaciju dan prije.',
-        en: 'The offer changes daily, according to the catch and the season. For dishes under the peka and larger groups we recommend booking a day ahead.',
-        de: 'Das Angebot wechselt täglich, je nach Fang und Saison. Für Gerichte unter der Peka und größere Gruppen empfehlen wir eine Reservierung einen Tag vorher.',
-        it: 'L\'offerta cambia ogni giorno, secondo la pesca e la stagione. Per i piatti sotto la peka e i gruppi numerosi consigliamo di prenotare un giorno prima.'
-      },
-      'd0106c442e': {
-        hr: 'Iz rijeke i mora',
-        en: 'From river and sea',
-        de: 'Aus Fluss und Meer',
-        it: 'Dal fiume e dal mare'
-      },
-      'ad45986a5c': {
-        hr: 'Jegulja s ražnja',
-        en: 'Eel on the spit',
-        de: 'Aal am Spieß',
-        it: 'Anguilla allo spiedo'
-      },
-      'da3b824167': {
-        hr: 'Žabe na lukcu',
-        en: 'Frogs on the onion base',
-        de: 'Frösche auf Zwiebelbett',
-        it: 'Rane in cipollata'
-      },
       'e8dc6495da': {
         hr: 'Brudet od žaba i jegulje',
         en: 'Brudet of frogs and eel',
@@ -288,18 +264,6 @@
         de: 'Frosch-Risotto',
         it: 'Risotto di rane'
       },
-      '235f69636f': {
-        hr: 'Slatkovodni škampi na buzaru',
-        en: 'Freshwater prawns buzara',
-        de: 'Süßwassergarnelen Buzara',
-        it: 'Gamberi d\'acqua dolce alla buzara'
-      },
-      '90e4f1adbb': {
-        hr: 'Slatkovodni škampi s gradela',
-        en: 'Freshwater prawns from the grill',
-        de: 'Süßwassergarnelen vom Grill',
-        it: 'Gamberi d\'acqua dolce alla griglia'
-      },
       '026e5aab2a': {
         hr: 'Hobotnica ispod peke',
         en: 'Octopus under the peka',
@@ -311,102 +275,6 @@
         en: 'Seafood risotto',
         de: 'Meeresfrüchte-Risotto',
         it: 'Risotto ai frutti di mare'
-      },
-      'efe8d96011': {
-        hr: 'Ispod peke i s gradela',
-        en: 'Under the peka and from the grill',
-        de: 'Unter der Peka und vom Grill',
-        it: 'Sotto la peka e alla griglia'
-      },
-      '32e997723d': {
-        hr: 'Janjetina ispod peke',
-        en: 'Lamb under the peka',
-        de: 'Lamm unter der Peka',
-        it: 'Agnello sotto la peka'
-      },
-      '7f44c15f10': {
-        hr: 'Teleća koljenica ispod peke',
-        en: 'Veal shank under the peka',
-        de: 'Kalbshaxe unter der Peka',
-        it: 'Stinco di vitello sotto la peka'
-      },
-      'd3d84891e2': {
-        hr: 'Piletina ispod peke',
-        en: 'Chicken under the peka',
-        de: 'Huhn unter der Peka',
-        it: 'Pollo sotto la peka'
-      },
-      '168c1a2d5e': {
-        hr: 'Domaći kruh ispod peke',
-        en: 'Home-made bread under the peka',
-        de: 'Hausgemachtes Brot unter der Peka',
-        it: 'Pane fatto in casa sotto la peka'
-      },
-      '6f002e4853': {
-        hr: 'Miješano meso s gradela',
-        en: 'Mixed meat from the grill',
-        de: 'Gemischtes Fleisch vom Grill',
-        it: 'Carne mista alla griglia'
-      },
-      '8900f97a8f': {
-        hr: 'Ramstek',
-        en: 'Rump steak',
-        de: 'Rumpsteak',
-        it: 'Roastbeef'
-      },
-      'df9a843206': {
-        hr: 'Lignje s gradela',
-        en: 'Squid from the grill',
-        de: 'Tintenfisch vom Grill',
-        it: 'Calamari alla griglia'
-      },
-      '4c8ba8c8c2': {
-        hr: 'Prilozi, slastice i piće',
-        en: 'Sides, desserts and drinks',
-        de: 'Beilagen, Desserts und Getränke',
-        it: 'Contorni, dolci e bevande'
-      },
-      'cbdf06fbf3': {
-        hr: 'Grilovano povrće',
-        en: 'Grilled vegetables',
-        de: 'Grillgemüse',
-        it: 'Verdure alla griglia'
-      },
-      'eaa451a80d': {
-        hr: 'Blitva s krumpirom',
-        en: 'Chard with potatoes',
-        de: 'Mangold mit Kartoffeln',
-        it: 'Bietola con patate'
-      },
-      '9507715255': {
-        hr: 'Domaći krumpir i sezonska salata',
-        en: 'Home-grown potatoes and seasonal salad',
-        de: 'Hauskartoffeln und Saisonsalat',
-        it: 'Patate di casa e insalata di stagione'
-      },
-      'a19a05bd61': {
-        hr: 'Palačinke i kolač dana',
-        en: 'Pancakes and cake of the day',
-        de: 'Pfannkuchen und Tageskuchen',
-        it: 'Pancake e dolce del giorno'
-      },
-      '89194a4e8b': {
-        hr: 'Vina iz neretvanskih vinograda',
-        en: 'Wines from Neretva vineyards',
-        de: 'Weine aus Neretva-Weinbergen',
-        it: 'Vini dei vigneti della Neretva'
-      },
-      '2e5c9eb36a': {
-        hr: 'Domaće rakije, pivo, kava',
-        en: 'Home-made brandies, beer, coffee',
-        de: 'Hausgemachte Schnäpse, Bier, Kaffee',
-        it: 'Acquaviti di casa, birra, caffè'
-      },
-      'db9871be96': {
-        hr: 'Cijene su istaknute u konobi. Za alergene i posebne želje recite nam prilikom rezervacije — kuhinja se prilagođava.',
-        en: 'Prices are displayed in the konoba. Tell us about allergies and special wishes when you book — the kitchen adapts.',
-        de: 'Die Preise stehen in der Konoba. Allergien und Sonderwünsche sagen Sie uns bei der Reservierung — die Küche passt sich an.',
-        it: 'I prezzi sono esposti nella konoba. Comunicaci allergie e richieste particolari al momento della prenotazione — la cucina si adatta.'
       },
       '354e8108d6': {
         hr: 'Kako izgleda večer u Vrilu',
@@ -1811,6 +1679,444 @@
         en: 'Konoba Vrilo in the world\'s media — BBC Travel and Gault&amp;Millau · Konoba Vrilo blog',
         de: 'Konoba Vrilo in den Weltmedien — BBC Travel und Gault&amp;Millau · Blog der Konoba Vrilo',
         it: 'Konoba Vrilo sui media internazionali — BBC Travel e Gault&amp;Millau · blog della Konoba Vrilo'
+      },
+      '0402863057': {
+        hr: 'Žablji kraci u kremastom rižotu.',
+        en: 'Frog legs in a creamy risotto.',
+        de: 'Froschschenkel in cremigem Risotto.',
+        it: 'Zampe di rana in un risotto cremoso.'
+      },
+      '040dd907f4': {
+        hr: 'Gambori na žaru',
+        en: 'Grilled prawns',
+        de: 'Gegrillte Gambas',
+        it: 'Gamberi alla griglia'
+      },
+      '04925e7f44': {
+        hr: 'S ražnja, uz dodatke po želji.',
+        en: 'From the spit, with accompaniments of your choice.',
+        de: 'Vom Spieß, mit Beilagen nach Wahl.',
+        it: 'Allo spiedo, con contorni a piacere.'
+      },
+      '11e33ec277': {
+        hr: 'Žablji kraci složeni na sloju pirjane kapule.',
+        en: 'Frog legs layered over stewed onion.',
+        de: 'Froschschenkel auf einem Bett geschmorter Zwiebeln.',
+        it: 'Zampe di rana su un letto di cipolla stufata.'
+      },
+      '12abf1fc95': {
+        hr: 'Riblji carpaccio',
+        en: 'Fish carpaccio',
+        de: 'Fisch-Carpaccio',
+        it: 'Carpaccio di pesce'
+      },
+      '1a8546686a': {
+        hr: 'Klasik u paniranom obliku.',
+        en: 'The classic, breaded.',
+        de: 'Der Klassiker, paniert.',
+        it: 'Il classico, impanato.'
+      },
+      '1e3f7cd353': {
+        hr: 'Goveđa juha',
+        en: 'Beef soup',
+        de: 'Rindfleischsuppe',
+        it: 'Zuppa di manzo'
+      },
+      '1f6405cfa3': {
+        hr: 'Juhe',
+        en: 'Soups',
+        de: 'Suppen',
+        it: 'Zuppe'
+      },
+      '21626f164f': {
+        hr: 'Blitva',
+        en: 'Swiss chard',
+        de: 'Mangold',
+        it: 'Bietola'
+      },
+      '23be2ab7a1': {
+        hr: 'Riblja juha',
+        en: 'Fish soup',
+        de: 'Fischsuppe',
+        it: 'Zuppa di pesce'
+      },
+      '25571919a5': {
+        hr: 'Jegulja na ražnju',
+        en: 'Eel on the spit',
+        de: 'Aal vom Spieß',
+        it: 'Anguilla allo spiedo'
+      },
+      '25cf66f67a': {
+        hr: 'Oborita riba',
+        en: 'Oborita riba',
+        de: 'Oborita riba',
+        it: 'Oborita riba'
+      },
+      '29f1c3136b': {
+        hr: 'Brudet od jegulje',
+        en: 'Eel brudet',
+        de: 'Aal-Brudet',
+        it: 'Brudet di anguilla'
+      },
+      '2b65f97d3d': {
+        hr: 'Žabe na kapuli',
+        en: 'Frogs on onion',
+        de: 'Frösche auf Zwiebeln',
+        it: 'Rane sulla cipolla'
+      },
+      '2b730d13d3': {
+        hr: 'Svaki dan nešto drugo — pitajte konobara što je danas u pripremi.',
+        en: 'Something different every day — ask the waiter what is being prepared today.',
+        de: 'Jeden Tag etwas anderes — fragen Sie den Kellner, was heute zubereitet wird.',
+        it: 'Ogni giorno qualcosa di diverso — chiedete al cameriere cosa c\'è oggi in preparazione.'
+      },
+      '2e53233972': {
+        hr: 'Kategorije jelovnika',
+        en: 'Menu categories',
+        de: 'Speisekarten-Kategorien',
+        it: 'Categorie del menù'
+      },
+      '33e5efba6c': {
+        hr: 'Posluženi na 100 g.',
+        en: 'Served per 100 g.',
+        de: 'Portioniert zu je 100 g.',
+        it: 'Servite a 100 g.'
+      },
+      '35a7f34055': {
+        hr: 'Sezonska salata',
+        en: 'Seasonal salad',
+        de: 'Saisonsalat',
+        it: 'Insalata di stagione'
+      },
+      '4d81a4fc7d': {
+        hr: 'Bolonjez od crne leće',
+        en: 'Black lentil bolognese',
+        de: 'Bolognese aus schwarzen Linsen',
+        it: 'Bolognese di lenticchie nere'
+      },
+      '4df7fc7a5d': {
+        hr: 'Klasik u paniranom izdanju.',
+        en: 'The classic, breaded.',
+        de: 'Der Klassiker, paniert.',
+        it: 'Il classico, impanato.'
+      },
+      '56323e809c': {
+        hr: 'Jegulja i žabe u istom brujetu od rajčice, s kapulom.',
+        en: 'Eel and frogs in the same tomato brudet, with onion.',
+        de: 'Aal und Frösche im selben Tomaten-Brudet, mit Zwiebeln.',
+        it: 'Anguilla e rane nello stesso brudet di pomodoro, con cipolla.'
+      },
+      '5761c095b2': {
+        hr: 'Deserti',
+        en: 'Desserts',
+        de: 'Desserts',
+        it: 'Dolci'
+      },
+      '582ff5f0ba': {
+        hr: 'Sušeni pršut, tanko narezan, uz dodatke po želji.',
+        en: 'Dry-cured ham, thinly sliced, with accompaniments of your choice.',
+        de: 'Trocken gereifter Schinken, dünn geschnitten, mit Beilagen nach Wahl.',
+        it: 'Prosciutto stagionato, tagliato sottile, con contorni a piacere.'
+      },
+      '58eb303f5f': {
+        hr: 'Zagrebački odrezak',
+        en: 'Zagreb schnitzel',
+        de: 'Zagreber Schnitzel',
+        it: 'Cotoletta alla zagabrese'
+      },
+      '5af5dd0612': {
+        hr: 'Izbor domaćih i stranih sireva, poslužen uz dodatke koji ih zaokružuju.',
+        en: 'A selection of local and imported cheeses, served with the accompaniments that round them off.',
+        de: 'Eine Auswahl einheimischer und ausländischer Käse, serviert mit den passenden Beilagen.',
+        it: 'Una selezione di formaggi locali e stranieri, servita con gli accompagnamenti che li completano.'
+      },
+      '5b7610aeaa': {
+        hr: 'Palenta (pura)',
+        en: 'Polenta',
+        de: 'Polenta',
+        it: 'Polenta'
+      },
+      '5efda18935': {
+        hr: 'Topla predjela',
+        en: 'Warm starters',
+        de: 'Warme Vorspeisen',
+        it: 'Antipasti caldi'
+      },
+      '6a44228993': {
+        hr: 'Prilozi',
+        en: 'Side dishes',
+        de: 'Beilagen',
+        it: 'Contorni'
+      },
+      '6f7cb7874d': {
+        hr: 'Teleći kotleti',
+        en: 'Veal cutlets',
+        de: 'Kalbsschnitzel',
+        it: 'Cotolette di vitello'
+      },
+      '714eaf44d4': {
+        hr: 'Meso i povrće.',
+        en: 'Meat and vegetables.',
+        de: 'Fleisch und Gemüse.',
+        it: 'Carne e verdure.'
+      },
+      '74976d5451': {
+        hr: 'Biftek',
+        en: 'Beefsteak',
+        de: 'Bifteck',
+        it: 'Bistecca'
+      },
+      '7d970a072b': {
+        hr: 'Pohane žabe',
+        en: 'Breaded frogs',
+        de: 'Panierte Frösche',
+        it: 'Rane impanate'
+      },
+      '8324c9b19a': {
+        hr: 'Gambori na buzaru od rajčice i bijelog vina.',
+        en: 'Prawns na buzaru, with tomato and white wine.',
+        de: 'Garnelen na buzaru mit Tomaten und Weißwein.',
+        it: 'Gamberi na buzaru con pomodoro e vino bianco.'
+      },
+      '8490e78d3b': {
+        hr: 'Bez glutena, s maskarponeom. Leća, badem, ljesnjak, chili.',
+        en: 'Gluten-free, with mascarpone. Lentils, almonds, hazelnuts, chilli.',
+        de: 'Glutenfrei, mit Mascarpone. Linsen, Mandeln, Haselnüsse, Chili.',
+        it: 'Senza glutine, con mascarpone. Lenticchie, mandorle, nocciole, peperoncino.'
+      },
+      '8b7ec41d6f': {
+        hr: 'Pileći file na žaru',
+        en: 'Grilled chicken fillet',
+        de: 'Gegrilltes Hähnchenfilet',
+        it: 'Filetto di pollo alla griglia'
+      },
+      '8c0cf9f446': {
+        hr: 'Crni rižot',
+        en: 'Black risotto',
+        de: 'Schwarzes Risotto',
+        it: 'Risotto nero'
+      },
+      '8c9abc5986': {
+        hr: 'Hladna predjela',
+        en: 'Cold starters',
+        de: 'Kalte Vorspeisen',
+        it: 'Antipasti freddi'
+      },
+      '90ccfef74e': {
+        hr: 'Riža',
+        en: 'Rice',
+        de: 'Reis',
+        it: 'Riso'
+      },
+      '93029920aa': {
+        hr: 'Rižot od dimljene kozice, obogaćen bučom i sirom. Salata iz vrta.',
+        en: 'Risotto with smoked prawns, squash and cheese. Garden salad.',
+        de: 'Risotto von geräucherten Garnelen, mit Kürbis und Käse. Salat aus dem Garten.',
+        it: 'Risotto di gamberi affumicati, con zucca e formaggio. Insalata dell\'orto.'
+      },
+      '94bf40f5d1': {
+        hr: 'Tamni rižot od sipinog crnila.',
+        en: 'Dark risotto made with cuttlefish ink.',
+        de: 'Dunkles Risotto mit Tintenfischtinte.',
+        it: 'Risotto scuro al nero di seppia.'
+      },
+      '990782459b': {
+        hr: 'Bečki odrezak',
+        en: 'Wiener schnitzel',
+        de: 'Wiener Schnitzel',
+        it: 'Cotoletta alla viennese'
+      },
+      '9bc34cd92f': {
+        hr: 'Specijaliteti kuće',
+        en: 'House specialities',
+        de: 'Spezialitäten des Hauses',
+        it: 'Specialità della casa'
+      },
+      '9d0d4b774c': {
+        hr: 'Pršut',
+        en: 'Pršut',
+        de: 'Pršut',
+        it: 'Pršut'
+      },
+      '9f188ba14f': {
+        hr: 'Ponuda se mijenja dnevno, prema ulovu i sezoni. Cijene su istaknute u konobi; za veće grupe preporučujemo rezervaciju dan prije.',
+        en: 'The offer changes daily with the catch and the season. Prices are listed in the konoba; for larger groups we recommend booking a day ahead.',
+        de: 'Das Angebot wechselt täglich, je nach Fang und Saison. Die Preise stehen in der Konoba; für größere Gruppen empfehlen wir eine Reservierung einen Tag vorher.',
+        it: 'L\'offerta cambia ogni giorno, secondo il pescato e la stagione. I prezzi sono indicati in konoba; per i gruppi numerosi consigliamo di prenotare un giorno prima.'
+      },
+      'a08474cbfb': {
+        hr: 'Domaći dnevni kolač',
+        en: 'House cake of the day',
+        de: 'Hausgemachter Kuchen des Tages',
+        it: 'Dolce del giorno fatto in casa'
+      },
+      'a4846203ff': {
+        hr: 'Pripremljene na žaru, poslužene na kilogram.',
+        en: 'Grilled and served by the kilogram.',
+        de: 'Gegrillt und kiloweise serviert.',
+        it: 'Alla griglia, serviti al chilogrammo.'
+      },
+      'ab8b35fdba': {
+        hr: 'Riba i povrće.',
+        en: 'Fish and vegetables.',
+        de: 'Fisch und Gemüse.',
+        it: 'Pesce e verdure.'
+      },
+      'adabbd7c94': {
+        hr: 'Pomfrit',
+        en: 'French fries',
+        de: 'Pommes frites',
+        it: 'Patatine fritte'
+      },
+      'af4e2dfbd3': {
+        hr: 'Hobotnica s ražnja, uz crno vino i kremu od graška.',
+        en: 'Octopus from the spit, with red wine and pea cream.',
+        de: 'Oktopus vom Spieß, mit Rotwein und Erbsencreme.',
+        it: 'Polpo allo spiedo, con vino rosso e crema di piselli.'
+      },
+      'afa413e00c': {
+        hr: 'Tris',
+        en: 'Tris',
+        de: 'Tris',
+        it: 'Tris'
+      },
+      'b08473f34a': {
+        hr: 'Klasik u paniranom obliku, u čistom izdanju.',
+        en: 'The classic, breaded and served plain.',
+        de: 'Der Klassiker, paniert und pur serviert.',
+        it: 'Il classico, impanato e servito in purezza.'
+      },
+      'b37b32d3b4': {
+        hr: 'Lešo krumpir',
+        en: 'Boiled potatoes',
+        de: 'Salzkartoffeln',
+        it: 'Patate lesse'
+      },
+      'b712d30ca9': {
+        hr: 'Salata od ribe, salata od hobotnice i pašteta. Kapula, grožđe, pome, kapari, ljesnjak, citrusi.',
+        en: 'Fish salad, octopus salad and pâté. Onion, grapes, apple, capers, hazelnuts, citrus.',
+        de: 'Fischsalat, Oktopussalat und Pastete. Zwiebel, Trauben, Apfel, Kapern, Haselnüsse, Zitrusfrüchte.',
+        it: 'Insalata di pesce, insalata di polpo e paté. Cipolla, uva, mela, capperi, nocciole, agrumi.'
+      },
+      'b8f196adb5': {
+        hr: 'Lava cake',
+        en: 'Lava cake',
+        de: 'Lava cake',
+        it: 'Lava cake'
+      },
+      'b95bc809fb': {
+        hr: 'Jegulja u brudetu od rajčice, s kapulom.',
+        en: 'Eel in a tomato brudet, with onion.',
+        de: 'Aal im Tomaten-Brudet, mit Zwiebeln.',
+        it: 'Anguilla in brudet di pomodoro, con cipolla.'
+      },
+      'b9d4733e4f': {
+        hr: 'Brudet od jegulje i žaba',
+        en: 'Eel and frog brudet',
+        de: 'Aal-und-Frosch-Brudet',
+        it: 'Brudet di anguilla e rane'
+      },
+      'ce4bea78f5': {
+        hr: 'Glavna jela',
+        en: 'Main courses',
+        de: 'Hauptgerichte',
+        it: 'Piatti principali'
+      },
+      'ce6b8260dc': {
+        hr: 'Selekcija sireva',
+        en: 'Cheese selection',
+        de: 'Käseauswahl',
+        it: 'Selezione di formaggi'
+      },
+      'd4e5fc6586': {
+        hr: 'Lignje na žaru',
+        en: 'Grilled squid',
+        de: 'Gegrillte Tintenfische',
+        it: 'Calamari alla griglia'
+      },
+      'd53602acee': {
+        hr: 'Gambori s ražnja, u svom najjednostavnijem izdanju.',
+        en: 'Prawns from the spit, in their simplest form.',
+        de: 'Garnelen vom Spieß, in ihrer einfachsten Form.',
+        it: 'Gamberi allo spiedo, nella loro forma più semplice.'
+      },
+      'd692df8818': {
+        hr: 'Povrće sa žara',
+        en: 'Grilled vegetables',
+        de: 'Gegrilltes Gemüse',
+        it: 'Verdure alla griglia'
+      },
+      'd7b2212bfa': {
+        hr: 'Dimljeni rižot',
+        en: 'Smoked risotto',
+        de: 'Geräuchertes Risotto',
+        it: 'Risotto affumicato'
+      },
+      'dec1a75b35': {
+        hr: 'Svježa riba pripremljena na obor, poslužena na kilogram.',
+        en: 'Fresh fish prepared na obor, served by the kilogram.',
+        de: 'Frischer Fisch, na obor zubereitet, kiloweise serviert.',
+        it: 'Pesce fresco preparato na obor, servito al chilogrammo.'
+      },
+      'df97880a14': {
+        hr: 'Čokoladni kolač s tekućim srcem.',
+        en: 'Chocolate cake with a molten centre.',
+        de: 'Schokoladenkuchen mit flüssigem Kern.',
+        it: 'Torta al cioccolato dal cuore fondente.'
+      },
+      'e92b2cda24': {
+        hr: 'Gazpacho od cikle',
+        en: 'Beetroot gazpacho',
+        de: 'Rote-Bete-Gazpacho',
+        it: 'Gazpacho di barbabietola'
+      },
+      'ea4f68bf6f': {
+        hr: 'Ražanj od hobotnice',
+        en: 'Octopus on the spit',
+        de: 'Oktopus vom Spieß',
+        it: 'Polpo allo spiedo'
+      },
+      'edadd41df7': {
+        hr: 'Jegulja s ražnja, poslužena na kilogram.',
+        en: 'Eel from the spit, served by the kilogram.',
+        de: 'Aal vom Spieß, kiloweise serviert.',
+        it: 'Anguilla allo spiedo, servita al chilogrammo.'
+      },
+      'edcc478782': {
+        hr: 'Bijela riba, soja, aceto. Citrusi, badem.',
+        en: 'White fish, soy, aceto. Citrus, almonds.',
+        de: 'Weißer Fisch, Soja, Aceto. Zitrusfrüchte, Mandeln.',
+        it: 'Pesce bianco, soia, aceto. Agrumi, mandorle.'
+      },
+      'f22c3e313d': {
+        hr: 'Gambori na buzaru',
+        en: 'Prawns na buzaru',
+        de: 'Garnelen na buzaru',
+        it: 'Gamberi na buzaru'
+      },
+      'fc4d8738de': {
+        hr: 'Tanko narezana junetina, ukiseljena kapula. Hollandaise, aceto, perlice, keks od parmezana.',
+        en: 'Thinly sliced beef, pickled onion. Hollandaise, aceto, capers, parmesan crisp.',
+        de: 'Dünn geschnittenes Rindfleisch, eingelegte Zwiebel. Hollandaise, Aceto, Kapern, Parmesan-Cracker.',
+        it: 'Manzo tagliato sottile, cipolla in agrodolce. Hollandaise, aceto, capperi, biscotto al parmigiano.'
+      },
+      'fc84e1ff04': {
+        hr: 'Granny Smith jabuka, dimljeni jogurt.',
+        en: 'Granny Smith apple, smoked yoghurt.',
+        de: 'Granny-Smith-Apfel, geräucherter Joghurt.',
+        it: 'Mela Granny Smith, yogurt affumicato.'
+      },
+      'fd3e94fdfc': {
+        hr: 'Uz mille-feuille od krumpira.',
+        en: 'With potato mille-feuille.',
+        de: 'Mit Kartoffel-Mille-feuille.',
+        it: 'Con mille-feuille di patate.'
+      },
+      'ffba50d841': {
+        hr: 'Goveđi carpaccio',
+        en: 'Beef carpaccio',
+        de: 'Rinder-Carpaccio',
+        it: 'Carpaccio di manzo'
       }
     };
 
